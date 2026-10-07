@@ -850,6 +850,7 @@
     "password_strength_strong": "Ισχύς κωδικού πρόσβασης: Ισχυρός",
     "preferences": "Προτιμήσεις",
     "language": "Γλώσσα",
+    "select_language": "",
     "advanced": "Για προχωρημένους",
     "export_directory_does_not_exist": "Μη έγκυρος κατάλογος εξαγωγής",
     "export_directory_does_not_exist_message": "<p>Ο φάκελος εξαγωγής που επιλέξατε δεν υπάρχει.</p><p>Παρακαλούμε επιλέξτε έναν έγκυρο φάκελο.</p>",

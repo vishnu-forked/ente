@@ -850,6 +850,7 @@
     "password_strength_strong": "Parola gücü: Güçlü",
     "preferences": "Tercihler",
     "language": "Dil",
+    "select_language": "",
     "advanced": "Gelişmiş",
     "export_directory_does_not_exist": "Geçersiz dışa aktarma dizini",
     "export_directory_does_not_exist_message": "<p>Seçtiğiniz dışa aktarma dizini mevcut değil.</p><p>Lütfen geçerli bir dizin seçin.</p>",

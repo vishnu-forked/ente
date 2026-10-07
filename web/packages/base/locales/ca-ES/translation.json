@@ -850,6 +850,7 @@
     "password_strength_strong": "Força de la contrasenya: Forta",
     "preferences": "Preferències",
     "language": "Idioma",
+    "select_language": "",
     "advanced": "Avançat",
     "export_directory_does_not_exist": "Directori d'exportació invàlid",
     "export_directory_does_not_exist_message": "<p>El directori d'exportació que has seleccionat no existeix.</p><p>Si us plau, selecciona un directori vàlid.</p>",

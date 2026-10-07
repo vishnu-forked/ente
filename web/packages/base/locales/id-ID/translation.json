@@ -850,6 +850,7 @@
     "password_strength_strong": "Keamanan sandi: Kuat",
     "preferences": "Preferensi",
     "language": "Bahasa",
+    "select_language": "",
     "advanced": "Lanjutan",
     "export_directory_does_not_exist": "",
     "export_directory_does_not_exist_message": "",

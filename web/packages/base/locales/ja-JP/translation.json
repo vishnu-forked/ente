@@ -850,6 +850,7 @@
     "password_strength_strong": "パスワード強度: 強い",
     "preferences": "設定",
     "language": "言語",
+    "select_language": "",
     "advanced": "高度な設定",
     "export_directory_does_not_exist": "無効なエクスポートディレクトリ",
     "export_directory_does_not_exist_message": "<p>選択したエクスポートディレクトリは存在しません。</p><p>有効なディレクトリを選択してください。</p>",

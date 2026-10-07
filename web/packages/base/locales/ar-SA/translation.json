@@ -850,6 +850,7 @@
     "password_strength_strong": "قوة كلمة المرور: قوية",
     "preferences": "التفضيلات",
     "language": "اللغة",
+    "select_language": "",
     "advanced": "متقدم",
     "export_directory_does_not_exist": "دليل التصدير غير صالح",
     "export_directory_does_not_exist_message": "<p>دليل التصدير الذي حددته غير موجود.</p><p>يرجى تحديد دليل صالح.</p>",

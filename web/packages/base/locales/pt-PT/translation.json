@@ -850,6 +850,7 @@
     "password_strength_strong": "Força da palavra-passe: Forte",
     "preferences": "Preferências",
     "language": "Idioma",
+    "select_language": "",
     "advanced": "Avançado",
     "export_directory_does_not_exist": "Diretório de exportação inválido",
     "export_directory_does_not_exist_message": "<p>O diretório de exportação que selecionou não existe.</p><p>Por favor, selecione um diretório válido.</p>",

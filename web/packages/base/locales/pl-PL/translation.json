@@ -850,6 +850,7 @@
     "password_strength_strong": "Siła hasła: Silne",
     "preferences": "Preferencje",
     "language": "Język",
+    "select_language": "",
     "advanced": "Zaawansowane",
     "export_directory_does_not_exist": "Nieprawidłowy katalog eksportu",
     "export_directory_does_not_exist_message": "<p>Wybrany katalog eksportu nie istnieje.</p><p>Proszę wybrać prawidłowy katalog.</p>",

@@ -850,6 +850,7 @@
     "password_strength_strong": "密碼強度：強",
     "preferences": "設定",
     "language": "語言",
+    "select_language": "",
     "advanced": "進階",
     "export_directory_does_not_exist": "",
     "export_directory_does_not_exist_message": "",

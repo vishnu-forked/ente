@@ -850,6 +850,7 @@
     "password_strength_strong": "Надійність пароля: Надійний",
     "preferences": "Налаштування",
     "language": "Мова",
+    "select_language": "",
     "advanced": "Додатково",
     "export_directory_does_not_exist": "Неправильна тека для експортування",
     "export_directory_does_not_exist_message": "<p>Вибраний каталог експорту, якого не існує.</p><p>Оберіть вірний каталог.</p>",

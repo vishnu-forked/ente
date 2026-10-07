@@ -850,6 +850,7 @@
     "password_strength_strong": "Síla hesla: Silné",
     "preferences": "Předvolby",
     "language": "Jazyk",
+    "select_language": "",
     "advanced": "Pokročilé",
     "export_directory_does_not_exist": "Neplatný adresář pro export",
     "export_directory_does_not_exist_message": "<p>Zvolený adresář pro export neexistuje.</p><p>Zvolte platný adresář.</p>",

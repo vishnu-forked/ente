@@ -850,6 +850,7 @@
     "password_strength_strong": "Slaptažodžio stiprumas: stiprus",
     "preferences": "Nuostatos",
     "language": "Kalba",
+    "select_language": "",
     "advanced": "Išplėstiniai",
     "export_directory_does_not_exist": "Netinkamas eksporto katalogas",
     "export_directory_does_not_exist_message": "<p>Pasirinktas eksporto katalogas neegzistuoja.</p><p>Pasirinkite tinkamą katalogą.</p>",

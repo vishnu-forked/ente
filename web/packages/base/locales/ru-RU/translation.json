@@ -850,6 +850,7 @@
     "password_strength_strong": "Надежность пароля: Надежный",
     "preferences": "Настройки",
     "language": "Язык",
+    "select_language": "",
     "advanced": "Расширенные",
     "export_directory_does_not_exist": "Недопустимый каталог экспорта",
     "export_directory_does_not_exist_message": "<p>Выбранный вами каталог экспорта не существует.</p><p>Пожалуйста, выберите правильный каталог.</p>",

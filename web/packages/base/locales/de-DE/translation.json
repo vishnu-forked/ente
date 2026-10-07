@@ -850,6 +850,7 @@
     "password_strength_strong": "Passwortstärke: Stark",
     "preferences": "Einstellungen",
     "language": "Sprache",
+    "select_language": "",
     "advanced": "Erweitert",
     "export_directory_does_not_exist": "Ungültiges Exportverzeichnis",
     "export_directory_does_not_exist_message": "<p>Das von dir gewählte Exportverzeichnis existiert nicht.</p><p>Bitte wähle einen gültigen Ordner.</p>",

@@ -850,6 +850,7 @@
     "password_strength_strong": "Sicurezza password: Forte",
     "preferences": "Preferenze",
     "language": "Lingua",
+    "select_language": "",
     "advanced": "Avanzate",
     "export_directory_does_not_exist": "Directory di esportazione non valida",
     "export_directory_does_not_exist_message": "<p>La directory di esportazione selezionata non esiste.</p><p>Si prega di selezionare una directory valida.</p>",
