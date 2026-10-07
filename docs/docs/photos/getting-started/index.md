@@ -6,7 +6,6 @@ description: User guide to setting up Ente Photos on mobile and desktop
 # Getting Started
 
 Welcome to Ente Photos! Ente Photos is an end-to-end encrypted alternative to Google Photos and Apple Photos, designed to keep your photos private while making them easily accessible across all your devices.
-
 This guide will walk you through everything you need to get started, from installation to daily use. Follow these steps in order for the smoothest onboarding experience:
 
 ## 1. Installation

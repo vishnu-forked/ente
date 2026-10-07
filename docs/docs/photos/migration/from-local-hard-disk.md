@@ -6,7 +6,6 @@ description: Migrating to Ente Photos by importing data from your local hard dis
 # Upload photos from your computer
 
 Use the Ente desktop app to upload photos and videos from your computer or an external drive.
-
 ## Start an upload
 
 1. Download and install the [Ente desktop app](https://ente.com/download/desktop), then sign in.
@@ -24,6 +23,9 @@ Use the Ente desktop app to upload photos and videos from your computer or an ex
 > A single file may skip this review. Google Takeout imports show it; [Watch Folder](/photos/features/backup-and-sync/watch-folders) uploads do not.
 
 ## Understanding folder structure options
+
+![Multiple folders detected — single album or separate albums](https://docs-assets.ente.com/screenshots/qa/desktop-import-albums-choice.png){width=720px}
+
 
 When you upload a folder, Ente will ask how you want to organize your photos:
 

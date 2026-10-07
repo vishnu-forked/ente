@@ -6,8 +6,8 @@ description: Guide to configuring Ente Photos for automatic daily backup
 # Set up for daily use
 
 Now that your account is created and you've logged in to your devices, let's set up Ente Photos to automatically back up your new photos. This is a one-time setup - once configured, Ente will work seamlessly in the background.
-
-## Select albums/folders to back up
+## Select albums
+/folders to back up
 
 The first time you open Ente Photos on a mobile device, you'll be prompted to select which albums you want to back up.
 

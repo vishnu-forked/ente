@@ -6,7 +6,6 @@ description: Overview of Ente account features, security, and subscription manag
 # Account
 
 Your Ente account is the foundation for securely storing and accessing your photos across all your devices. This page provides an overview of account management, security features, and subscription options.
-
 ## Using Ente accounts across products
 
 One Ente account works with Ente Photos, Ente Auth, and Ente Locker. You can use one account for all three, or create a separate account for each.
@@ -174,6 +173,8 @@ Ente does not store your payment information. All payments are processed securel
 Learn more in the [Storage and Plans FAQ](/photos/faq/storage-and-plans#supported-payment-methods).
 
 ## Managing Your Account
+
+![Settings drawer with account email frosted](https://docs-assets.ente.com/screenshots/qa/settings-drawer-frosted.png){width=320px}
 
 ### Multi-device access
 

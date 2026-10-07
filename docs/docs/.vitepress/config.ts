@@ -6,6 +6,12 @@ const docsBaseUrl = "https://ente.com/help";
 const noindexPages = new Set<string>();
 
 export default defineConfig({
+    vite: {
+        server: {
+            // Allow Cloudflare quick tunnels / other reverse proxies
+            allowedHosts: true,
+        },
+    },
     base: "/help/",
     title: "Ente Help",
     description: "Documentation and help for Ente's products",
